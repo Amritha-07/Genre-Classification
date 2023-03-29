@@ -1,0 +1,82 @@
+body {
+	background-color: #cad4e8;
+	background-image: url('../images/backGround.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+
+.title {
+	text-align: center;
+	font-size: 50px;
+	width: 95%;
+	margin: auto;
+	color:  #00ffef;
+	background-color: #d8315bcc;
+	padding: 25px;
+	border-radius: 10px;
+	font-family: 'Dancing Script', cursive;
+	border: 2.5px solid #2c041c;
+}
+
+.for {
+	width: 35%;
+	border: 2.5px solid #d8315b;
+	padding: 50px 35px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 10px;
+	background-color: #2c041caa;
+}
+
+.tab {
+	margin: auto;
+}
+
+.lyric {
+	color: #00ffef;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+}
+
+.ly {
+	color: #d8315b;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+	color: #00ffef;
+	text-align: center;
+	border: 2px solid red;
+  	border-radius: 10px;
+  	height: 40px;
+  	width: 200px;
+  	margin: 20px;
+}
+
+.sub {
+	margin: auto;
+	width: 50%;
+	padding-top: 25px;
+}
+
+.submit {
+	width: 100%;
+	padding: 5px 20px;
+	background: #8fd40099;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+}
+
+.ans {
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+	color: #00ffef;
+}
