@@ -1,6 +1,6 @@
 pip == 20.1.1
 flask == 2.2.3
 pickle5
-sklearn == 1.2.2
+scikit-learn == 1.2.2
 numpy == 1.24.2
 statistics == 1.0.3.5
