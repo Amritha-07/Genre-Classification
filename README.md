@@ -13,3 +13,5 @@ or
 command: python -m flask run
 
 Here's a live deployment - https://genre-classification.onrender.com/
+
+![image](https://github.com/Amritha-07/Genre-Classification/assets/74042644/adefbc5c-83b8-47ca-9fbf-fd1236aadf7e)
