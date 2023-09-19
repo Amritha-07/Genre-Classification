@@ -12,6 +12,13 @@ command: py -m flask run
 or
 command: python -m flask run
 
+## Tech-Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+
 ## Deployment
 
 Here's a live deployment - https://genre-classification.onrender.com/
