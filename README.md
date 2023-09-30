@@ -4,6 +4,10 @@ A Web Application for Music Analysis
 
 This project is a web application that uses machine learning models to classify the genre and predict the popularity of a given song lyrics. It uses logistic regression for genre classification and linear regression for popularity prediction. The project aims to provide a fun and interactive way to explore and discover different music genres and their popularity.
 
+Here's a live deployment - https://genre-classification.onrender.com/
+
+![image](https://github.com/Amritha-07/Genre-Classification/assets/74042644/adefbc5c-83b8-47ca-9fbf-fd1236aadf7e)
+
 ## Tech-Stack
 
 - Python
@@ -44,13 +48,6 @@ or
 ```python app.py```
 
 To access the web application from your web browser, you can enter the URL of your local host followed by the port number (such as http://127.0.0.1:5000/).
-
-
-## Deployment
-
-Here's a live deployment - https://genre-classification.onrender.com/
-
-![image](https://github.com/Amritha-07/Genre-Classification/assets/74042644/adefbc5c-83b8-47ca-9fbf-fd1236aadf7e)
 
 ## References
 
