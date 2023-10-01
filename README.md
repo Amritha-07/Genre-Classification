@@ -39,7 +39,7 @@ You can use any IDE or editor of your choice.
 
 To download the code files for this project, you can clone this GitHub repository using the following command:
 
-```git clone https://github.com/myusername/Genre-Classification.git```
+```https://github.com/Amritha-07/Genre-Classification.git```
 
 To execute the code, you can run the following command:
 
